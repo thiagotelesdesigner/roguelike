@@ -5,7 +5,9 @@ Esta definição de "roguelike" foi definida pela *International Roguelike Devel
 
 > **Nota**
 >
->  Esta documentação não é simplesmente uma tradução do projeto original http://www.roguebasin.com/index.php?title=Berlin_Interpretation. Além das informações contidas na Berlin Interpretation, foram acrescentadas informações adicionadas para embasar e clarificar a definição de roguelike. Caso encontre alguma informação que discorde ou tenha a intenção de acrescentar conteúdo, sinta-se livre para enviar um pull request para este repositório.
+>  Esta documentação não é simplesmente uma tradução do projeto original http://www.roguebasin.com/index.php?title=Berlin_Interpretation. Além das informações contidas na Berlin Interpretation, foram acrescentadas informações adicionais para embasar e clarificar a definição de roguelike segundo a Berlin Interpretation
+>  
+>  Vale ressaltar que esta definição não é uma regra de ouro, e é mais voltada aos conceitos dos jogos clássicos roguelike.
 
 ## Princípios globais
 "Roguelike" refere-se  a um gênero e não simplesmente a "like-Rogue". O gênero é representado por seu cânone¹. O cânone para Roguelikes é o ADOM, Angband, Crawl, NetHack e Rogue. Esta lista pode ser usada para determinar como um jogo roguelike é. Faltar alguns pontos não significa que o jogo não é um roguelike. Da mesma forma que possuir alguns pontos não significa que o jogo é um roguelike.
@@ -82,6 +84,43 @@ Embora possam existir muitas outras dinâmicas para o jogo, matar uma grande qua
 O jogo requer uma cuidadosa exploração de cada nível da dungeon, além da descoberta do uso de itens não identificados. 
 
 
+## Aspectos de baixo valor
+
+### Modo de jogador Single player
+O jogador controla apenas um único personagem. O jogo é centrado no jogador, o mundo é visto através desse único personagem e a morte dele é o fim do jogo.
+
+### Monstros são similares ao jogador
+As mesmas regras que se aplicam para o jogador, aplicam-se também para os monstros. Eles tem inventários, equipamentos, itens de uso, lançam feitiços, etc.
+
+### Desafio tático
+O jogador deverá aprender sobre as táticas de jogo antes de realizar um progresso significativo. Esse processo se repete, ou seja, o conhecimento inicial do jogo não é suficiente para vencer o jogo final - devido aos ambientes, encontros randômicos e a morte permanente, roguelikes são extremamente desafiadores para jogadores novos. O foco do jogo está em prover desafios táticos (ao contrário de trabalhar estrategicamente no cenário geral ou de resolver puzzles).
+
+### ASCII display
+O display dos jogos tradicionais roguelike é representado através de um tiled world criado com caracteres ASCII.
+
+### Dungeons
+Roguelikes contém dungeons, com níveis compostos de salas e corredores.
+
+### Números
+Os números usados para descrever o personagem - ponto de vida, atributo, etc., são exibidos explícitamente.
+
+## Controvérsia
+Em seu artigo [Screw the Berlin Interpretation][9], [Darren Grey][10] acusa o Berlin Interpretation de ser impreciso, desatualizado e não representativo de um gênero tão aberto e vibrante. Em particular, ele ridiculariza recursos como ASCII e Dungeons como sendo irrelevantes para um gênero que tradicionalmente prioriza a mecânica de jogo sobre a estética ou sua configuração. Ele critica o uso comum da Berlin Interpretation como a definição do roguelike.
+
+Na comunidade de jogos o termo "roguelike" ou  "com elementos roguelike" são os mais popularmente utilizados para descrever qualquer jogo que combina a morte permanente com conteúdo procedural.
+
+---
+
+## Nota pessoal
+```
+Autor: Thiago Teles
+
+```
+Particularmente, eu concordo com a visão de Darren Grey, porém ao mesmo tempo consigo entender a definição da Berlin Interpretation sobre roguelike. Basicamente a Berlin busca uma definição purista do gênero, trazendo para o conceito os aspectos fundamentais dos primeiros jogos do gênero. Porém como game designers, precisamos lembrar que jogos puristas são uma exceção, na verdade é um nicho bastante específico.
+
+O que vale ressaltar é que não existe uma regra de ouro ou um guia de como fazer de "maneira correta" um jogo roguelike. Esqueça, isso não existe. O mais importante ao olhar para conceitos clássicos, como o da Berlin Interpretation, é entender a história desses jogos, é entender porque cada um desses aspectos foi colocado em cada um desses jogos e porque a ênfase de cada aspecto é diferente em cada jogo. Ou seja, o mais importante é entender como o game designer pensou durante o processo de construção do jogo. Essa visão é o que permitirá que apliquemos os conceitos basais do roguelike nos nossos projetos, além de permitir que esse gênero evolua.
+
+
 
 ## Referências
 
@@ -108,3 +147,5 @@ O jogo requer uma cuidadosa exploração de cada nível da dungeon, além da des
 [6]:https://pt.wikipedia.org/wiki/Angband_(jogo_eletrônico)
 [7]:https://en.wikipedia.org/wiki/Linley's_Dungeon_Crawl 
 [8]: https://github.com/crawl/crawl
+[9]: http://www.gamesofgrey.com/blog/?p=403
+[10]: http://www.roguebasin.com/index.php?title=Darren_Grey
