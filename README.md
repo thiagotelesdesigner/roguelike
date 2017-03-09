@@ -5,8 +5,15 @@ Não é objetivo dos documentos aqui salvaguardados servir como guia estrito ou 
 
 Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse conhecimento, sinta-se a vontade de realizar um fork do repositório e contribuir com este compêndio.
 
+## Documentos
+
 - [Roguelike | Berlin Interpretation][1]
+
+## Vídeos
+
+- [Rogue: The Adventure Game - Versão para PC IBM de 1983][2]
 
 
 
 [1]:https://github.com/thiagotelesdesigner/roguelike/blob/master/roguelike_berlin_interpretation.md
+[2]: https://www.youtube.com/watch?v=I2Q9iZupsqA
