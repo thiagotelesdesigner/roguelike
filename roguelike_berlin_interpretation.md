@@ -58,10 +58,10 @@ O propósito desta definição é ajudar a comunidade roguelike a entender melho
 
 ![Angband screenshot level Bree](assets/screenshot_Angband_Bree.jpg)
 
-*Screenshot do jogo ANgband de 1990, level Bree*  
+*Screenshot do jogo Agband de 1990, level Bree*  
 
 
-*Crawl* ou Linley's Dungeon Crawl é um jogo roguelike lançado em 1997. O jogo inicia com o jogador tendo que escolher uma dentre vinte raças possíveis, algumas delas são: elfos, anões, humanos, ogro, centauro, dentre muitas e muitas outras. Cada raça determina o seu conjunto de atributos, habilidades e características físicas como movimento, resitências e habilidades especiais. Uma das mecânicas centrais dentro de Crawl é a religião, com um panteão diversos de deuses que irão recompensar o jogador de acordo com seu código de conduta. O objetivo principal de Crawl é recuperar o Orbe de Zot, escondido dentro de um complexo dungeon. Para alcançar o objetivo o jogador terá que explorar todo o mundo do jogo.
+**Crawl** ou Linley's Dungeon Crawl é um jogo roguelike lançado em 1997. O jogo inicia com o jogador tendo que escolher uma dentre vinte raças possíveis, algumas delas são: elfos, anões, humanos, ogro, centauro, dentre muitas e muitas outras. Cada raça determina o seu conjunto de atributos, habilidades e características físicas como movimento, resitências e habilidades especiais. Uma das mecânicas centrais dentro de Crawl é a religião, com um panteão diversos de deuses que irão recompensar o jogador de acordo com seu código de conduta. O objetivo principal de Crawl é recuperar o Orbe de Zot, escondido dentro de um complexo dungeon. Para alcançar o objetivo o jogador terá que explorar todo o mundo do jogo.
 
 A versão mais recente é o jogo *Dungeon Crawl Stone Soup*, lançado em 2006. Ele é totalmente free open source, e pode ser encontrado no seguinte repositório: https://github.com/crawl/crawl.
 
@@ -71,7 +71,7 @@ Crawl terminou virando também um termo, "Dungeon Crawl", que é basicamente um 
 
 *Screenshot do jogo Linley's Dungeon Crawl, de 1997*  
 
-**NetHack** é um jogo de RPG roguelike para computador lançado em 1987, originalmente desenvolvido para rodar em modo de texto. Ele é uma evolução do jogo Hack de 1985.  O gameplay é basicamente o mesmo para jogos RPG roguelike. O nome NetHack é proveniente de dois termos: Net de Internet - devido ao desenvolvimento do jogo ter sido totalmente coordena através da Internet; e Hack refere-se ao subgênero "Hack n' Slash", devido ao seu grande foco no combate a muitos inimigos por vez.
+**NetHack** é um jogo de RPG roguelike para computador lançado em 1987, originalmente desenvolvido para rodar em modo de texto. Ele é uma evolução do jogo Hack de 1985.  O gameplay é basicamente o mesmo para jogos RPG roguelike. O nome NetHack é proveniente de dois termos: Net de Internet - devido ao desenvolvimento do jogo ter sido totalmente coordenado através da Internet; e Hack refere-se ao subgênero "Hack n' Slash", devido ao seu grande foco no combate a muitos inimigos por vez.
 
 ![Scrennshot do nível Óraculo do jogo NetHack](assets/oraculo_NetHack.gif)
 
@@ -83,7 +83,7 @@ Crawl terminou virando também um termo, "Dungeon Crawl", que é basicamente um 
 
 *Screenshot do jogo Rogue, de 1980, rodando em um PC IBM com monitor colorido*  
 
-Rogue foi inspirado em jogos baseados em texto como Colossal Cave Adventure, de 1976, em conjunto com cenários de fantasia baseados no RPG de mesa Dungeos & Dragons.
+Rogue foi inspirado em jogos baseados em texto como Colossal Cave Adventure, de 1976, em conjunto com cenários de fantasia baseados no RPG de mesa Dungeons & Dragons.
 
 Apesar de Rogue não ter sido o pioneiro nos jogos de RPG com dinâmica dungeon crawling com mapas e encontros procedurais, ele se tornou referência para este novo gênero de jogo devido a sua grande popularidade.
 
@@ -92,11 +92,11 @@ Apesar de Rogue não ter sido o pioneiro nos jogos de RPG com dinâmica dungeon 
 
 <a name="geração-de-ambiente-randômico"></a>
 ### Geração de ambiente randômico
-O mundo do jogo é gerado de forma procedural e randômica, esta abordagem aumenta a reprodutibilidade do jogo.  Aparência e localização dos itens são randômicas. Apar~encia dos monstros é fixa, porém sua localização é randômica. O conteúdo fixo (enredo, puzzle ou vault) elimina a aleatóriedade.
+O mundo do jogo é gerado de forma procedural e randômica, esta abordagem aumenta a reprodutibilidade do jogo.  Aparência e localização dos itens são randômicas. Aparência dos monstros é fixa, porém sua localização é randômica. O conteúdo fixo (enredo, puzzle ou vault) elimina a aleatóriedade.
 
 <a name="permadeath-morte-permanente"></a>
 ### Permadeath (Morte permanente)
-Não espere vencer o jogo com o seu primeiro personagem. Você começa novamente do primeiro nível e com um novo personagem quando morre (e qualquer save file é deletado). A geração randômica de ambientes torna agradável a nova experiência e diminui a frustração pelo baixa leniência do jogo. Jogos roguelike tendem a ser extremamente punitivos.
+Não espere vencer o jogo com o seu primeiro personagem. Você começa novamente do primeiro nível e com um novo personagem quando morre (e qualquer save file é deletado). A geração randômica de ambientes torna agradável a nova experiência e diminui a frustração pela baixa leniência do jogo. Jogos roguelike tendem a ser extremamente punitivos.
 
 <a name="intervalo-de-tempo-baseado-em-turnos"></a>
 ### Intervalo de tempo baseado em turnos
