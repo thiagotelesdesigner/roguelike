@@ -15,6 +15,7 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 - [Rogue: The Adventure Game - Versão para PC IBM de 1983][2]
 - [ADOM: Anciente Domains of Mystery - v. 1.1.1][4]
 - [Angband - v. 3.3.2][5]
+- [Dungeon Crawl Stone Soup][6]
 
 
 
@@ -23,3 +24,4 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 [3]: https://www.youtube.com/watch?v=vxF1osPkplA
 [4]: https://www.youtube.com/watch?v=VIp3vRut8To
 [5]: https://www.youtube.com/watch?v=_NMSqmIIMv8
+[6]: https://www.youtube.com/watch?v=p0HecfbcsR4
