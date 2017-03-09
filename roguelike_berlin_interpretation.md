@@ -79,9 +79,13 @@ Crawl terminou virando também um termo, "Dungeon Crawl", que é basicamente um 
 
 **Rogue** é o jogo que definiu o gênero roguelike, foi lançado em 1980.  Ele é basicamente um dungeon crawling, no qual o jogador controla um personagem que deverá explorar vários níveis em um calabouço em busca do amuleto de Yendor. Através do caminho o jogador terá encontro com monstros além de coletar tesouros e itens como: armas, armaduras, poções, pergaminhos e outros itens mágicos. Tanto os níveis quanto os encontros com os montros e localizações dos itens, são gerados proceduralmente, ou seja, cada vez que o jogador joga Rogue ele terá uma experiência totalmente nova, pois nada se repete. O intervalo de tempo em Rogue é baseado em turnos e o playfield é representado através de uma grid retangular renderizada em ASCII - na verdade toda a arte de Rogue foi construída em ASCII. Rogue implementou o conceito de morte permanente, essa foi uma decisão de game design para tornar cada ação do jogador extremamente significativa. Caso o personagem morra, o jogador deverá iniciar um novo jogo com um novo personagem, ou seja, não poderá recarregar a partir de um estado salvo com o personagem anterior.
 
-![screenshot Rogue em um PC IBM](assets/screenshot_Rogue_1980_IBM_color_PC.png)
+![screenshot Rogue original](assets/screenshot_rogue_1980_level3.png)
 
-*Screenshot do jogo Rogue, de 1980, rodando em um PC IBM com monitor colorido*  
+*Screenshot do jogo Rogue, de 1980*  
+
+![screenshot Rogue em um PC IBM](assets/screenshot_Rogue_1983_IBM_color_PC.png)
+
+*Screenshot da versão de 1983 do jogo Rogue para um PC IBM com monitor colorido*  
 
 Rogue foi inspirado em jogos baseados em texto como Colossal Cave Adventure, de 1976, em conjunto com cenários de fantasia baseados no RPG de mesa Dungeons & Dragons.
 
