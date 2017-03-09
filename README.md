@@ -8,7 +8,7 @@ Esta definição de "roguelike" foi definida pela *International Roguelike Devel
 >  Esta documentação não é simplesmente uma tradução do projeto original http://www.roguebasin.com/index.php?title=Berlin_Interpretation. Além das informações contidas na Berlin Interpretation, foram acrescentadas informações adicionadas para embasar e clarificar a definição de roguelike. Caso encontre alguma informação que discorde ou tenha a intenção de acrescentar conteúdo, sinta-se livre para enviar um pull request para este repositório.
 
 ## Princípios globais
-"Roguelike" refere-se  a um gênero e não simplesmente a "like-Rogue". O gênero é representado por seu cânone[^1]. O cânone para Roguelikes é o ADOM, Angband, Crawl, NetHack e Rogue. Esta lista pode ser usada para determinar como um jogo roguelike é. Faltar alguns pontos não significa que o jogo não é um roguelike. Da mesma forma que possuir alguns pontos não significa que o jogo é um roguelike.
+"Roguelike" refere-se  a um gênero e não simplesmente a "like-Rogue". O gênero é representado por seu cânone¹. O cânone para Roguelikes é o ADOM, Angband, Crawl, NetHack e Rogue. Esta lista pode ser usada para determinar como um jogo roguelike é. Faltar alguns pontos não significa que o jogo não é um roguelike. Da mesma forma que possuir alguns pontos não significa que o jogo é um roguelike.
 
 O propósito desta definição é ajudar a comunidade roguelike a entender melhor suas características principais, e não colocar restrições para os desenvolvedores de jogos.
 
@@ -49,7 +49,7 @@ Apesar de Rogue não ter sido o pioneiro nos jogos de RPG com dinâmica dungeon 
 
 ---
 
-[^1]: Cânone, dentro deste contexto, significa regra, preceito ou norma.
+1. *Cânone, dentro deste contexto, significa regra, preceito ou norma.*
 
 
 
