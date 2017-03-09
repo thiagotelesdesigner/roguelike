@@ -32,7 +32,7 @@ A versão mais recente é o jogo *Dungeon Crawl Stone Soup*, lançado em 2006. E
 
 Crawl terminou virando também um termo, "Dungeon Crawl", que é basicamente um tipo de cenário encontrado nos jogos de RPG, no qual heróis exploram labirintos em calabouços, lutam contra monstros e pilham qualquer tesouro que encontrar. Em se tratando de video game, uma dungeon é normalmente um terreno gerado proceduralmente, com encontros e tesouros espalhados randomicamente. Um outro significado, mais literal, para o termo Dungeon Crawl pode ser o "Rastreamento de calabouço", uma maneira de descrever a experiência do jogador ao explorar este tipo de cenário.
 
-![screenshot Crawl](assets/screenshot_Crawl_level_01.jpg)
+![screenshot Crawl](assets/screenshot_Crawl_level_02.jpg)
 
 *Screenshot do jogo Linley's Dungeon Crawl, de 1997*  
 
