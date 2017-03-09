@@ -11,9 +11,11 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 
 ## Vídeos
 
+- [Rogue - Original de 1980][3]
 - [Rogue: The Adventure Game - Versão para PC IBM de 1983][2]
 
 
 
 [1]:https://github.com/thiagotelesdesigner/roguelike/blob/master/roguelike_berlin_interpretation.md
 [2]: https://www.youtube.com/watch?v=I2Q9iZupsqA
+[3]: https://www.youtube.com/watch?v=vxF1osPkplA
