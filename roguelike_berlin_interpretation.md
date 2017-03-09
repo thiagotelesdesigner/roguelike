@@ -194,6 +194,10 @@ O que vale ressaltar é que não existe uma regra de ouro ou um guia de como faz
 <a name="canone"></a>
 1. *Cânone, dentro deste contexto, significa regra, preceito ou norma.* | [*voltar para o texto ⤴*](#canone-texto)
 
+---
+
+[Home][11]
+
 
 
 [1]:https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery
@@ -206,3 +210,4 @@ O que vale ressaltar é que não existe uma regra de ouro ou um guia de como faz
 [8]: https://github.com/crawl/crawl
 [9]: http://www.gamesofgrey.com/blog/?p=403
 [10]: http://www.roguebasin.com/index.php?title=Darren_Grey
+[11]:https://github.com/thiagotelesdesigner/roguelike 
