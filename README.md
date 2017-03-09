@@ -16,6 +16,7 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 - [ADOM: Anciente Domains of Mystery - v. 1.1.1][4]
 - [Angband - v. 3.3.2][5]
 - [Dungeon Crawl Stone Soup][6]
+- [NetHack - 1985][7]
 
 
 
@@ -25,3 +26,4 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 [4]: https://www.youtube.com/watch?v=VIp3vRut8To
 [5]: https://www.youtube.com/watch?v=_NMSqmIIMv8
 [6]: https://www.youtube.com/watch?v=p0HecfbcsR4
+[7]: https://www.youtube.com/watch?v=aMumSgis-Jg
