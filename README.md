@@ -14,7 +14,7 @@ O propósito desta definição é ajudar a comunidade roguelike a entender melho
 
 **ADOM ** é o acrônimo de "Ancient Domains of Mystery", um jogo RPG roguelike lançado em 1994. Este é caracterizado pelo modo single-player, exploração de dungeons complexos, grandes áreas selvagens e aldeias. O jogador controla um personagem que é descrito por raça, classe, atributos, habilidades e equipamentos. E para alcançar o objetivo principal do jogo, precisa cumprir missões secundárias, também conhecidas como quests, que tem por objetivo levar o jogador a explorar o mundo do jogo, lutar contra centenas de monstros e encontar tesouros. Como roguelikes em geral, ADOM também possui morte definitiva.
 
-![ADOM screenshot](assets/ ADOM_screenshot.png)
+![ADOM screenshot](assets/ADOM_screenshot.png)
 
 **Angband** é um termo do idioma Sindarin que pode significar tanto "Prisão de Ferro" como "Inferno de Ferro". Sindarin é um idioma artificial fictício criado por  J. R. R. Tolkien para representar a linguagem élfica. O gênero roguelike surgiu do jogo Rogue, que foi baseado em Dungeons & Dragons;  este por sua vez foi baseado nas estórias de Tolkien. Por este motivo, o termo Angband tornou-se parte do cânone roguelike com o contexto de descrever a alta dificuldade dos desafios do jogo.
 
