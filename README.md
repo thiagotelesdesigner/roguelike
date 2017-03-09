@@ -16,6 +16,8 @@ O propósito desta definição é ajudar a comunidade roguelike a entender melho
 
 ![ADOM screenshot](assets/ADOM_screenshot.png)
 
+*Screenshot do jogo ADOM de 1994*  
+
 **Angband** é um termo do idioma Sindarin que pode significar tanto "Prisão de Ferro" como "Inferno de Ferro". Sindarin é um idioma artificial fictício criado por  J. R. R. Tolkien para representar a linguagem élfica. O gênero roguelike surgiu do jogo Rogue, que foi baseado em Dungeons & Dragons;  este por sua vez foi baseado nas estórias de Tolkien. Por este motivo, o termo Angband tornou-se parte do cânone roguelike com o contexto de descrever a alta dificuldade dos desafios do jogo.
 
 **Crawl** vem do termo "Dungeon Crawl", que é basicamente um tipo de cenário encontrado nos jogos de RPG, no qual heróis exploram labirintos em calabouços, lutam contra monstros e pilham qualquer tesouro que encontrar. Em se tratando de video game, uma dungeon é normalmente um terreno gerado proceduralmente, com encontros e tesouros espalhados randomicamente. Um outro significado, mais literal, para o termo Dungeon Crawl pode ser o "Rastreamento de calabouço", uma maneira de descrever a experiência do jogador ao explorar este tipo de cenário.
@@ -24,9 +26,13 @@ O propósito desta definição é ajudar a comunidade roguelike a entender melho
 
 ![Scrennshot do nível Óraculo do jogo NetHack](assets/oraculo_NetHack.gif)
 
+*Scrennshot do nível Óraculo do jogo NetHack de 1987*  
+
 **Rogue** é o jogo que definiu o gênero roguelike, foi lançado em 1980.  Ele é basicamente um dungeon crawling, no qual o jogador controla um personagem que deverá explorar vários níveis em um calabouço em busca do amuleto de Yendor. Através do caminho o jogador terá encontro com monstros além de coletar tesouros e itens como: armas, armaduras, poções, pergaminhos e outros itens mágicos. Tanto os níveis quanto os encontros com os montros e localizações dos itens, são gerados proceduralmente, ou seja, cada vez que o jogador joga ROgue ele terá uma experiência totalmente nova, pois nada se repete. O intervalo de tempo em Rogue é baseado em turnos e o playfield é representado através de uma grid retangular renderizada em ASCII - na verdade toda a arte de Rogue foi construída em ASCII. Rogue implementou o conceito de morte permanente, essa foi uma decisão de game design para tornar cada ação do jogador extremamente significativa. Caso o personagem morra, o jogador deverá iniciar um novo jogo com um novo personagem, ou seja, não poderá recarregar a partir de um estado salvo com o personagem anterior.
 
 ![screenshot Rogue em um PC IBM](assets/screenshot_Rogue_1980_IBM_color_PC.png)
+
+*Screenshot do jogo Rogue, de 1980, rodando em um PC IBM com monitor colorido*  
 
 Rogue foi inspirado em jogos baseados em texto como Colossal Cave Adventure, de 1976, em conjunto com cenários de fantasia baseados no RPG de mesa Dungeos & Dragons.
 
