@@ -5,4 +5,4 @@ Este repositório tem como objetivo servir de compêndio sobre o sub-gênero dos
 
 
 
-[1]:https://github.com/thiagotelesdesigner/roguelike/blob/master/roguelike_berlin_interpretation
+[1]:https://github.com/thiagotelesdesigner/roguelike/blob/master/roguelike_berlin_interpretation.md
