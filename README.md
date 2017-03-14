@@ -17,6 +17,11 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 - [Angband - v. 3.3.2][5]
 - [Dungeon Crawl Stone Soup][6]
 - [NetHack - 1985][7]
+- [How (and Why) Spelunky makes its own levels][8]
+
+## Videoaulas
+
+- [Playlist - Programando Roguelike no Construct 2][9]
 
 
 
@@ -27,3 +32,5 @@ Se você se interessa pelo tema e tem o real desejo de ajudar a difundir esse co
 [5]: https://www.youtube.com/watch?v=_NMSqmIIMv8
 [6]: https://www.youtube.com/watch?v=p0HecfbcsR4
 [7]: https://www.youtube.com/watch?v=aMumSgis-Jg
+[8]: https://www.youtube.com/watch?v=Uqk5Zf0tw3o
+[9]: https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6
